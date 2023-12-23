@@ -1,0 +1,15 @@
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\bin\Debug\net6.0\Task2.exe
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\bin\Debug\net6.0\Task2.deps.json
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\bin\Debug\net6.0\Task2.dll
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\bin\Debug\net6.0\Task2.pdb
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.dll
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\refint\Task2.dll
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.pdb
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task2\obj\Debug\net6.0\ref\Task2.dll

@@ -1,0 +1,15 @@
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\bin\Debug\net6.0\Task3.exe
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\bin\Debug\net6.0\Task3.deps.json
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\bin\Debug\net6.0\Task3.dll
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\bin\Debug\net6.0\Task3.pdb
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.dll
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\refint\Task3.dll
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.pdb
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+H:\Учеба\GB\GBпрактика1\DZ\DZ2MERMass\Task3\obj\Debug\net6.0\ref\Task3.dll
